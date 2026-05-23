@@ -10,7 +10,7 @@ A Unity game I made in high school (around 2014). Published it on Google Play, b
 </p>
 
 <p align="center">
-  <img src="PauseMenuWithMissions.png" width="250" height="444"/>
   <img src="Death.png" width="250" height="444"/>
+  <img src="PauseMenuWithMissions.png" width="250" height="444"/>
   <img src="Ships.png" width="250" height="444"/>
 </p>
